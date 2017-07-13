@@ -1,0 +1,58 @@
+#AllContent{
+	width: 800px;
+	margin-right: auto;
+	margin-left: auto;
+	
+}
+
+
+
+
+h1{
+	color: rgb(255, 151, 165);
+	font-size: 45px ;
+	
+}
+
+h3{
+	color: rgb(270, 151, 165) ;
+	font-size: 29px ;
+	}
+
+body{
+	font-family: Serif;
+	background-color: rgb(146, 202, 245);
+
+
+	
+}
+
+#Shield{
+	width: 300px; 
+text-align: center;
+	
+}
+
+#Lavadomes{
+	width: 300px;
+	text-align: center;
+}
+
+#Stratovolcanoes{
+	width: 300px;
+	text-align: center;
+}
+
+#Intro{	
+color: purple;
+}
+
+.TypesofVolcanoes{
+	font-Size: 17px
+	color: white;
+}
+
+
+
+
+
